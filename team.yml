@@ -502,9 +502,9 @@ members:
         - alumni@bostonhacks.io
     status: active
   - name: Sarah Rieger
+      role: member
     github:
       username: sarah256
-      role: member
     mailgun:
       email: srieger@bu.edu
       routes:
@@ -727,6 +727,15 @@ members:
         - logistics@bostonhacks.io
         - contact@bostonhacks.io
         - sponsor@bostonhacks.io
+    status: active
+  - name: Jasmine Fanchu Zhou
+    github: 
+      username: jazzmint23
+      role: member
+    mailgun:
+      email: fanchuz@bu.edu
+      routes:
+        - contact@bostonhacks.io
     status: active
 mailgun:
   routes:
