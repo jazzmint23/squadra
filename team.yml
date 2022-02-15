@@ -790,6 +790,15 @@ members:
       routes:
         - contact@bostonhacks.io
     status: active
+  - name: Jasmine Fanchu Zhou
+    github:
+      username: jazzmint23
+      role: member
+    mailgun:
+      email: fanchuz@bu.edu
+      routes:
+        - contact@bostonhacks.io
+    status: active
 mailgun:
   routes:
     - name: contact@bostonhacks.io
